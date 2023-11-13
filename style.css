@@ -1,0 +1,59 @@
+@font-face {
+    font-family: 'Koldstonk' ;
+    src: url(src/koldstonk-font/Koldstonk-rgMW8.ttf);
+}
+
+body{
+    background-color: #F4F2EF;
+}
+
+.navbar {
+    padding: 2rem;
+    background-color: #EF9494;
+    height: 100px;
+  }
+  
+  .navbar-collapse {
+    align-items: center;
+    justify-content: space-between;  
+  }
+
+
+  .card{
+    margin: 0 auto;
+}
+
+.btn-amarillopastel{
+    background-color: #E6E279;
+    color: #990808;
+    border-radius: 34px;
+}
+
+.btn-salmon{
+    background-color: #EF9494;
+    color: #990808;
+    border-radius: 14px;
+}
+
+.btn-salmon2{
+    background-color: #EF9494;
+    color: #F4F2EF;
+    border-radius: 34px;
+}
+
+.btn-salmon3{
+    background-color: #F4F2EF;
+    color: #EF9494;
+    border-radius: 34px;
+}
+
+.btn-blanco{
+    background-color: #EF9494;
+    color: #F4F2EF;
+    border-radius: 34px;
+}
+.btn:hover {
+    color: #fff !important;
+    text-decoration: none;
+    }
+
